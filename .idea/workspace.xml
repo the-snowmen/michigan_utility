@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5d4f42-3b5d-4fbe-be19-b8e992ce63f0" name="Changes" comment="" />
+    <list default="true" id="ee5d4f42-3b5d-4fbe-be19-b8e992ce63f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Jupyter_ML/.ipynb_checkpoints/downScale-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jupyter_ML/.ipynb_checkpoints/find corrupt file-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jupyter_ML/.ipynb_checkpoints/how_to_train_a_model-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jupyter_ML/.ipynb_checkpoints/run_model-3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter_ML/downScale.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_ML/downScale.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter_ML/find corrupt file.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_ML/find corrupt file.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter_ML/how_to_train_a_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_ML/how_to_train_a_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter_ML/run_model-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter_ML/run_model-3.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MHuang\OneDrive - Everstream\Desktop\MikeDHuang_2024\ArcGIS\ARCGIS_script" />
