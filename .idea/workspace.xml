@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5d4f42-3b5d-4fbe-be19-b8e992ce63f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ARCGIS_script.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_rename.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image_Collection-conduit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image_Collection-fiber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/michigan_Coordinate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/michigan_SF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/michigan_SF_0718.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee5d4f42-3b5d-4fbe-be19-b8e992ce63f0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
